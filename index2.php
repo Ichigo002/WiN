@@ -1,9 +1,9 @@
 <?php
 include "parts/head.php";
 include "parts/menu.php";
+require "serv/handling.php";
 
-echo "<br/>To jest index<br/>";
-
-include "parts/footer.php";
-
+load();
 ?>
+
+<?php include "parts/footer.php";?>
