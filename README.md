@@ -1,2 +1,0 @@
-# WiN
-Huj matma
