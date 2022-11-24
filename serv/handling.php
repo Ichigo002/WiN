@@ -28,7 +28,7 @@ function mk_url($where)
     if($where == "hp")
         $where = "homepage";
 
-    $url = substr(get_url(), 0, strpos(get_url(), "type") - 1);
+    $url = substr(get_url(), 0, strpos(get_url(), "type"));
 
     echo $url."?type=".$where;
     return $url."?type=".$where;
