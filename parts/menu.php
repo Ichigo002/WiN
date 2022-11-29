@@ -2,8 +2,7 @@
 <body>
    <header class="header" id="header">
       <section class="wrapper container">
-          <link rel="stylesheet" href="style.css">
-           <link rel="stylesheet" href="script.js">
+           <script><?php echo file_get_contents("menu-dropdown-script.js"); ?></script>
          <div class="burger" id="burger">
             <span class="burger-line"></span>
             <span class="burger-line"></span>
@@ -20,14 +19,12 @@
                   </ul>
                </li>
                <li class="menu-item menu-dropdown">
-                  <span class="menu-link" data-toggle="submenu">Resource<i class="bx bx-chevron-down"></i></span>
+                  <span class="menu-link" data-toggle="submenu">Zaawansowane<i class="bx bx-chevron-down"></i></span>
                   <ul class="submenu">
-                     <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Resource Link</a></li>
-                     <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Resource Link</a></li>
-                     <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Resource Link</a></li>
-                     <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Resource Link</a></li>
+                     <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Link</a></li>
                   </ul>
                </li>
+            </ul>
                <form>
                   <input type="text" id="szukaj"> <input type="submit" value="Szukaj" id="wyslij">
                   </form>
