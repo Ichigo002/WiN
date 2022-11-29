@@ -10,6 +10,8 @@
 
   <link rel="stylesheet" href="style.css">
   <style><?php echo file_get_contents("style.css"); ?></style>
+  <style><?php echo file_get_contents("menu-style.css"); ?></style>
+
   <script><?php echo file_get_contents("jquery-1.11.3.min.js"); ?></script>
 
 </head>
