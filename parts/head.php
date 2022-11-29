@@ -1,7 +1,10 @@
+<?php require_once "serv/handling.php" ?>
 
+<!DOCTYPE html>
+<html lang="pl">
 <head>
-    <title>TESTT</title>
-    <style>
-        <?php echo file_get_contents("main-style.css") ?>
-    </style>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WiN</title>
 </head>
