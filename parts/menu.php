@@ -32,7 +32,3 @@
       </section>
       
    </header>
-   <div id="zdj1">
-      <img src="matematyka.jpg">
-   </div>
-   <div style="margin-bottom: 35px">.</div>

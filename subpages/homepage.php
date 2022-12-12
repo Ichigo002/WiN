@@ -1,3 +1,8 @@
+<div id="zdj1">
+      <img src="matematyka.jpg">
+   </div>
+   <div style="margin-bottom: 35px">.</div>
+
 <h1>
     HOMEPAGE~!
 </h1>

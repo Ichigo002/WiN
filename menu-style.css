@@ -80,6 +80,7 @@ video {
   height: auto;
   margin: 0 auto;
   padding: 0 1.25rem;
+  margin: 0 auto;
 }
 
 .brand {
@@ -119,8 +120,7 @@ video {
 @media screen and (max-width: 992px) {
   .navbar {
     position: fixed;
-    top: 0;
-    left: -100%;
+    left: 900px !important;    
     width: 75%;
     height: 100%;
     z-index: 10;
@@ -132,7 +132,6 @@ video {
     transition: all 0.5s ease;
   }
   .navbar.active {
-    left: 0rem;
     opacity: 1;
     visibility: visible;
   }
