@@ -25,7 +25,14 @@
                    </ul>
                 </li>
             </ul>
+         </nav>
       
+      <div class="search-bar">
+         <form>
+            <input type="text", placeholder="Search . . ."/>
+            <input type="submit" value="Search"/>
+         </form>
+      </div>
    </header>
    <div style="margin-bottom: 35px;">
       ff
