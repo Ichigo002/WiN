@@ -1,4 +1,7 @@
-<h3>To jest footer</h3>
+<div id="footer">
+    <h3>Twórcy strony WiN Wiktor i Nina 
+        Wszelkie prawa zastrzeżone © </h3>
+
 
 </body>
 </html>
