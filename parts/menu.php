@@ -25,15 +25,6 @@
                    </ul>
                 </li>
             </ul>
-         </nav>
-
-         <!--SEARCH-->
-         <div class="search-bar">
-            <form method="get">
-               <input type="input" placeholder="Search..."/>
-               <input type="submit"/>
-            </form>
-         </div>
       
    </header>
    <div style="margin-bottom: 35px;">

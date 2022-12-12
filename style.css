@@ -39,7 +39,12 @@
 
 .zdj1 {
  float: left;
+ width: 1px;
+ height: 10px;
 }
 footer {
     background-color: aqua;
 }
+
+
+ 
