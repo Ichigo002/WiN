@@ -21,5 +21,15 @@
                   </ul>
                </li>
             </ul>
+            <section> <!--MENU głowne-->
+<nav>
+<ul>
+<li><a href="link">Przycisk 1</a></li>
+<li><a href="link">Przycisk 2</a></li>
+<li><a href="link">Przycisk 3</a></li>
+<li><a href="link">Przycisk 4</a></li>
+</ul>
+</nav>
+</section>
       
    </header>
