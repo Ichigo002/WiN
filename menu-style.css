@@ -187,12 +187,6 @@ body {
            #menu li, ol a {
             border-radius:6px;
           }
-  
-          #menu .dol {
-            background-image:url('https://webkod.pl/images/down.png');
-            background-repeat:no-repeat;
-            background-position:98% center;
-          }
     
           #menu .prawo {
             background-image:url('https://webkod.pl/images/right.png');
