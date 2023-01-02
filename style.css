@@ -42,9 +42,12 @@
  width: 1px;
  height: 10px;
 }
+.zdj2 {
+    float: left;
+    width: 1px;
+    height: 10px;
+   }  
 footer {
     background-color: aqua;
 }
-
-
  

@@ -1,6 +1,8 @@
 <div id="zdj1">
       <img src="matematyka.jpg">
    </div>
+   <div id="zdj2">
+    <img src="matematyka2.png"
 
 <h1>
     HOMEPAGE~!
