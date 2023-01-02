@@ -154,8 +154,6 @@ body {
 }
  
 
-      /* ------------------------CZĘŚĆ-ROZWIJANA-MENU-POZIOM-2----------------------- */
-
       /* wygląd głównego elementu - ol - w drugiej części rozwijanej */
       #menu > li > ul > li > ol {
         display:none;
