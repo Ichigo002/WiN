@@ -23,9 +23,11 @@
                 </li>
                 <!--MENU ^^ ZAAWANSOWANE -->
                 <li class="menu-item menu-dropdown">
-                   <span class="menu-link" data-toggle="submenu">Twórcy<i class="bx bx-chevron-down"></i></span>
+                   <span class="menu-link" data-toggle="submenu">O stronie<i class="bx bx-chevron-down"></i></span>
                    <ul class="submenu">
-                      <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Link</a></li>
+                      <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Kontakt</a></li>
+                      <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">O twórcach</a></li>
+                      <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">O stronie</a></li>
                    </ul>
                 </li>
             </ul>
