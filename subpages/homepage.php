@@ -25,7 +25,10 @@
                       <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Ułamki dziesiętne</a></li>
                       <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Potęgi</a></li>
                       <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Jednostki</a></li>
-                      <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Ułamki dziesiętne</a></li>
+                      <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Obwody</a>
+                      <ol>
+            <li><a href="#">dodany - 1</a></li>
+          </ol></li>
                    </ul>
                 </li>
                 <li class="menu-item menu-dropdown">
