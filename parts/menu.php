@@ -12,8 +12,6 @@
                 <!--MENU ^^ PODSTAWY -->
                 <li class="menu-item menu-dropdown">
                    <a href=<?php mk_url("kalkulator"); ?>span class="menu-link" data-toggle="submenu">Kalkulator<i class="bx bx-chevron-down"></i></span>
-                   <ul class="submenu">sadasd
-                   </ul>
                 </li>
                 <!--MENU ^^ PODSTAWY -->
                 <li class="menu-item menu-dropdown">
