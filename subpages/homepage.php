@@ -17,15 +17,15 @@
                    </ul>
                 </li>
                 <!--MENU ^^ 4-6 -->
-                <li class="menu-item menu-dropdown">
+                <li class="menu-item menu-dropdown dol">
                    <span class="menu-link" data-toggle="submenu">Klasa 4-6<i class="bx bx-chevron-down"></i></span>
                    <ul class="submenu">
-                      <li class="submenu-item prawo"><a href=<?php mk_url(""); ?> class="submenu-link">Procenty</a></li>
+                      <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Procenty</a></li>
                       <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Ułamki zwykłe</a></li>
                       <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Ułamki dziesiętne</a></li>
                       <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Potęgi</a></li>
                       <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Jednostki</a></li>
-                      <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Obwody</a>
+                      <li class="submenu-item prawo"><a href=<?php mk_url(""); ?> class="submenu-link">Obwody</a>
                       <ol>
             <li><a href="#">dodany - 1</a></li>
           </ol></li>
