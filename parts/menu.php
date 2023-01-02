@@ -9,9 +9,6 @@
          <!--MENU-->
          <nav class="menu-nav">
             <ul class="menu" id="menu">
-                <!--MENU ^^ PODSTAWY -->
-                <li class="menu-item menu-dropdown">
-                   <a href=<?php mk_url("kalkulator"); ?>span class="menu-link" data-toggle="submenu">Kalkulator<i class="bx bx-chevron-down"></i></span>
                 </li>
                 <!--MENU ^^ PODSTAWY -->
                 <li class="menu-item menu-dropdown">
