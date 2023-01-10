@@ -4,7 +4,7 @@
    <div id="zdj2">
     <img src="matematyka2.png">
    </div>
-   <div id="zdj2">
+   <div id="zdj3">
       <img src="matema.jpg">
    </div>
    <nav class="menu-nav">
