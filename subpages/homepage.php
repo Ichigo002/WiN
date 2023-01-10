@@ -27,7 +27,7 @@
                       <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Jednostki</a></li>
                       <li class="submenu-item prawo"><a href=<?php mk_url(""); ?> class="submenu-link">Obwody</a>
                       <ol>
-            <li class="root submenu_item"><a href=<?php mk_url(""); ?> class="submenu-link">dodany - 1</a></li>
+            <li class="submenu_item"><a href=<?php mk_url(""); ?> class="submenu-link">dodany - 1</a></li>
           </ol></li>
                    </ul>
                 </li>
