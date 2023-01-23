@@ -78,6 +78,7 @@ function generateQuestion() {
       break;
   }
 
+  console.log(op);
   correct_answer = ans;
   return v1 + " " + op + " " + v2;
 }
