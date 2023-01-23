@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Math Game</title>
+  </head>
+  <body>
+    <div class="frame-game">
+      <div id="fg-main">
+        <div class="fg-menu" id="fg-start">
+          <input type="submit" value="START THIS!" onclick="init_start()"/>
+        </div>
+        <div class="fg-gameplay" id="fg-play">
+          <div id="fg-clvl"></div>
+          <h2 style="color:green; display: none;" id="fg-correct">Correct</h2>
+          <h2 style="color:red; display: none;" id="fg-fail">Fail</h2>
+
+          <div id="fg-eqt"></div>
+          <div id="fg-res">
+            <input type="number" id="fg-res-input" value=""/>
+            <input type="submit" id="fg-res-submit" value="Check" onclick="send_answer()"/>
+          </div>
+        </div>
+      </div>
+      <link rel="stylesheet" href="style.css"/>
+      <script src="fgame.js"></script>
+    </div>
+  </body>
+</html>
