@@ -28,10 +28,13 @@
                       <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Ułamki dziesiętne</a></li>
                       <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Potęgi</a></li>
                       <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Jednostki</a></li>
-                      <li class="submenu-item prawo"><a href=<?php mk_url(""); ?> class="submenu-link">Obwody</a>
+                      <li class="submenu-item prawo"><a href=<?php mk_url(""); ?> class="submenu-link">Figury</a>
                       <ol>
-            <li class="submenu_item"><a href=<?php mk_url(""); ?> class="submenu-link">dodany - 1</a></li>
+            <li class="submenu_item"><a href=<?php mk_url(""); ?> class="submenu-link">Obwody</a></li>
+            <li class="submenu_item"><a href=<?php mk_url(""); ?> class="submenu-link">Pola</a></li>
+            <li class="submenu_item"><a href=<?php mk_url(""); ?> class="submenu-link">Objętości</a></li>
           </ol></li>
+                      <li class="submenu-item"><a href=<?php mk_url(""); ?> class="submenu-link">Algebra</a></li>
                    </ul>
                 </li>
                 <li class="menu-item menu-dropdown">
