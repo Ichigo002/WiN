@@ -114,9 +114,10 @@ body {
   transform: translateY(20);
 }
 .menu {
-  width: 80%;
+  width: 100%;
   height: auto;
-  float: right;
+  float: left;
+  margin-bottom: 10px;
 }
 
 .submenu {
