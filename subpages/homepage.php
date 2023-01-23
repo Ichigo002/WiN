@@ -40,15 +40,10 @@
                 <li class="menu-item menu-dropdown">
                    <span class="menu-link" data-toggle="submenu">Klasa 7-8<i class="bx bx-chevron-down"></i></span>
                    <ul class="submenu">
-                      <li class="submenu-item"><a href=<?php mk_url("dodawanie"); ?> class="submenu-link">Dodawanie</a></li>
+                      <li class="submenu-item"><a href=<?php mk_url("dodawanie"); ?> class="submenu-link">Pierwiastki</a></li>
                       <li class="submenu-item"><a href=<?php mk_url("odejmowanie"); ?> class="submenu-link">Odejmowanie</a></li>
                    </ul>
                 </li>
             </ul>
          </nav>
          <ul>
-    <li><a href=<?php mk_url("1234"); ?>>1234</a></li>
-    <li><a href=<?php mk_url(""); ?>>nothing</a></li>
-    <li><a href=<?php mk_url("hp"); ?>>hp</a></li>
-    <li><a href=<?php mk_url("homepage"); ?>>homepage</a></li>
-    </ul>
