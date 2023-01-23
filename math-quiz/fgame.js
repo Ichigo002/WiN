@@ -50,7 +50,7 @@ var correct_answer;
 var no_good;
 
 var lvl = 0;
-var difficult = 3;
+var difficult = 0;
 
 window.onload = init();
 
