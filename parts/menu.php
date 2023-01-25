@@ -14,7 +14,7 @@
                 <li class="menu-item menu-dropdown">
                    <span class="menu-link" data-toggle="submenu">Gierki<i class="bx bx-chevron-down"></i></span>
                    <ul class="submenu">
-                      <li class="submenu-item"><a href=<?php mk_url("dodawanie"); ?> class="submenu-link">Obliczanie</a></li>
+                      <li class="submenu-item"><a href=<?php mk_url("obliczanie_gierka"); ?> class="submenu-link">Obliczanie</a></li>
                    </ul>
                 </li>
                 <!--MENU ^^ ZAAWANSOWANE -->
