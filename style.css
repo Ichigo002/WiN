@@ -35,6 +35,8 @@
 .back-button:hover {
     background-color: #9ef4fc;
     color: #DA2576;
+    border-radius:20px;
+    border: 5px #5F9BD1 solid;
 }
 
 .zdj1 {
