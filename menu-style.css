@@ -70,6 +70,7 @@ body {
 
 }
 
+
 .search-bar > form > input
 {
   padding: 10px;
@@ -118,6 +119,9 @@ body {
   height: auto;
   float: left;
   margin-bottom: 10px;
+    border-bottom: 4px solid;
+    overflow: hidden;
+    position: relative;
 }
 
 .submenu {
@@ -194,3 +198,35 @@ body {
             background-repeat:no-repeat;
             background-position:98% center;
           }
+          #menu ul {
+            clear: left;
+            float: left;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            position: relative;
+            left: 50%;
+            text-align: center;
+         }
+         #menu ul li {
+            display: block;
+            float: left;
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            position: relative;
+            right: 50%;
+         }
+         #menu ul li a {
+            display: block;
+            margin: 0 0 0 1px;
+            padding: 3px 10px;
+            background: #ddd;
+            color: #000;
+            text-decoration: none;
+            line-height: 20px;
+         }
+         #menu ul li a:hover {
+            background: #b00;
+            color: #fff;
+         }  
