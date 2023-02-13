@@ -95,8 +95,6 @@ body {
   line-height: inherit;
   cursor: pointer;
   text-transform: capitalize;
-  color: var(--color-black-500);
-  transition: all 0.3s ease-in-out;
 }
 .menu-link > i.bx {
   font-size: 1.35rem;
@@ -120,8 +118,6 @@ body {
   float: left;
   margin-bottom: 10px;
     border-bottom: 4px solid;
-    overflow: hidden;
-    position: relative;
 }
 
 .submenu {
